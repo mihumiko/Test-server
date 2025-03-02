@@ -26,5 +26,3 @@ const Products = sequelize.define('products', {
 }, {
     timestamps: false
 });
-
-
